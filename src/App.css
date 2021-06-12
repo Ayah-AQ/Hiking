@@ -114,7 +114,7 @@
 .slider::-moz-range-thumb {
   width: 25px;
   height: 25px;
-  background: #9e7540;
-  color: #4b4513;
+  background: wheat;
+
   cursor: pointer;
 }
