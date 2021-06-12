@@ -13,6 +13,7 @@ export const Discription = styled.p`
   margin-left: 50px;
   margin-right: 50px;
   font-size:150%;
+    color: wheat;
   &.Name{
     font-weight: bold;
     background-color: #eae3c8;
