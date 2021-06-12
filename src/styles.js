@@ -6,7 +6,7 @@ export const HomeStyle = styled.h2`
   font-family: cursive;
   text-align: center;
   font-size: 300%;
-`;
+  color: wheat  `;
 
 export const Discription = styled.p`
   font-family: cursive;
