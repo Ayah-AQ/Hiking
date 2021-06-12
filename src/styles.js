@@ -28,7 +28,6 @@ export const HomeImg = styled.img`
   width: 400px;
   height: 400px;
   margin-left: 430px;
-  border-color: brown;
   border-radius: 2%;
  
 `;
